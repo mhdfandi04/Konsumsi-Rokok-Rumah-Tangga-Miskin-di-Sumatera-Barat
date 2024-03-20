@@ -15,6 +15,11 @@
 
 [vertopal.com_Untitled3.pdf](https://github.com/mhdfandi04/Konsumsi-Rokok-Rumah-Tangga-di-Sumatera-Barat/files/14668941/vertopal.com_Untitled3.pdf)
 
+# Dashboard Tableau
+https://public.tableau.com/app/profile/muhammad.fandi8329/viz/konsumsirokoksumbar/Dashboard1?publish=yes
+
+![Dashboard 1 (1)](https://github.com/mhdfandi04/Konsumsi-Rokok-Rumah-Tangga-di-Sumatera-Barat/assets/161302249/f7a58d18-3192-4775-b02e-89f3bbde91a8)
+
 
 
 
