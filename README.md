@@ -12,6 +12,6 @@
   Model regresi logistik ini digunakan untuk melihat pengaruh kemungkinan antara variabel independen terhadap variabel dependen. Pada penelitian ini regresi logistik digunakan untuk melihat faktor-faktor yang konsumsi rokok rumah tangga di 24 Provinsi Sumatera Barat. Pemilihan model ini dikarenakan dalam penelitian jenis variabel ialah variabel dummy dengan angka biner adalah satu atau nol.
 
 #Analisis dan Penyelesaian
-
+vertopal.com_Untitled3.pdf
 
 
